@@ -2,7 +2,6 @@
 
 ---
 
-### 
 [Network Management Platform](/networks)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
