@@ -1,30 +1,36 @@
 ## Portfolio
 
+[Network Management Platform](/platforms)
+<img src="images/platforms.jpg?raw=true"/>
+
+---
+[Science](/science)
+<img src="images/science.jpg?raw=true"/>
+
+---
+[Systems Architecture](/architecture)
+<img src="images/architecture.jpg?raw=true"/>
 ---
 
-[Network Management Platform](/networks)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Homebrew Electronics](/hobby)
+<img src="images/hobby.jpg?raw=true"/>
 
 ---
 [Windows C# Applications](/windows)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/windows.jpg?raw=true"/>
 
 ---
 [Electronics](/electronics)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/electronics.jpg?raw=true"/>
 
 ---
 [Big-data consulting](/bigdata)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bigdata.jpg?raw=true"/>
 
 ---
-[Cloud Applications](/cloud)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[IOT projects](/iot)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[IOT Applications](/iotmicrocloud)
+<img src="images/iotmicrocloud.jpg?raw=true"/>
+ 
 
 ### Category Name 2
 
