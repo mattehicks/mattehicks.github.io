@@ -12,27 +12,23 @@
 <img src="images/architecture.jpg?raw=true"/>
 ---
 
-[Homebrew Electronics](/hobby)
-<img src="images/hobby.jpg?raw=true"/>
-
 ---
 [Windows C# Applications](/windows)
 <img src="images/windows.jpg?raw=true"/>
 
 ---
-[Electronics](/electronics)
-<img src="images/electronics.jpg?raw=true"/>
-
----
 [IOT Applications](/iotmicrocloud)
 <img src="images/iotmicrocloud.jpg?raw=true"/>
  
+---
+[Electronics](/electronics)
+<img src="images/electronics.jpg?raw=true"/>
+
+
 
 ### My Companies
 
 - [IOT Micro-Cloud LLC](http://iotmicrocloud.com/)
 - [Big Data Soup LLC](http://bigdatasoup.com/)
 ---
-
----
-
+ 
