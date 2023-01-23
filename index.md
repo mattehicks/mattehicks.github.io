@@ -24,10 +24,6 @@
 <img src="images/electronics.jpg?raw=true"/>
 
 ---
-[Big-data consulting](/bigdata)
-<img src="images/bigdata.jpg?raw=true"/>
-
----
 [IOT Applications](/iotmicrocloud)
 <img src="images/iotmicrocloud.jpg?raw=true"/>
  
