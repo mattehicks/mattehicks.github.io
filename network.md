@@ -18,13 +18,12 @@ Secure: Tokenized/authenticated application interface.
 <img src="images/network1.png?raw=true"/>
 <br>
 
-### 2. Programming and methods
+### 2. Platform Architecture
 
 The core components written in Java; utilizing singletons, realtime contexualized data from MongoDB and MySQL.
-Deployed using Wildfly and Containers, in a private environment.
-Python services ran as a glue component between 3rd party monitoring software in order to aggregate and shuffle realtime input with stored database entity objects.
-Data analysis was achieved with ELK (Elasticsearch, Logstash, Kibana).
-Realitime dashboards and graphing was done with COTS 3rd party tools.
+Deployed using Wildfly and docker containers, deployed in a remote private environments.
+Custom Python services was deployed as an intermediary ETL process, while cleaning and contexualizing against stored database entity objects.
+Data analysis and reporting was achieved with ELK (Elasticsearch, Logstash, Kibana) for search, and dashboards and graphing was done with Grafana and bare-metal PDF generation software.
  
 <img src="images/network2.png?raw=true"/>
 <br>
