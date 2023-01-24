@@ -32,3 +32,10 @@
 - [Big Data Soup LLC](http://bigdatasoup.com/)
 ---
  
+
+ <style>
+.feature{
+    border: 1px solid silver !important;
+}
+
+</style>
