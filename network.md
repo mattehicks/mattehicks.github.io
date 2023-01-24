@@ -15,7 +15,7 @@ TCP/IP, Socket, UDP and SMTP messaging.
 CMS CRUD capabilities.
 Secure: Tokenized/authenticated application interface.
 ```
-<img src="images/network1?raw=true"/>
+<img src="images/network1.png?raw=true"/>
 
 
 ### 2. Programming and methods
@@ -26,4 +26,4 @@ Python services ran as a glue component between 3rd party monitoring software in
 Data analysis was achieved with ELK (Elasticsearch, Logstash, Kibana).
 Realitime dashboards and graphing was done with COTS 3rd party tools.
  
-<img src="images/network2.jpg?raw=true"/>
+<img src="images/network2.png?raw=true"/>
