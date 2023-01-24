@@ -1,7 +1,7 @@
 ## Portfolio
 
-[Network Management Platform](/platforms)
-<img src="images/platforms.jpg?raw=true"/>
+[Network Management Platform](/network)
+<img src="images/network.jpg?raw=true"/>
 
 ---
 [Science](/science)
@@ -32,3 +32,4 @@
 - [Big Data Soup LLC](http://bigdatasoup.com/)
 ---
  
+P
