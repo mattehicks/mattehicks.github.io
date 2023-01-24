@@ -20,7 +20,7 @@
 
 ---
 
-[IOT Applications](/iotmicrocloud)
+[IOT Applications](/iot)
 <img class="feature" src="images/iotmicrocloud.jpg?raw=true"/>
  
 ---
