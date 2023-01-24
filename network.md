@@ -15,7 +15,7 @@ TCP/IP, Socket, UDP and SMTP messaging.
 CMS CRUD capabilities.
 Secure: Tokenized/authenticated application interface.
 ```
-<img src="images/network1.png?raw=true"/>
+<img class="feature" src="images/network1.png?raw=true"/>
 <br>
 
 ### 2. Platform Architecture
@@ -25,5 +25,5 @@ Deployed using Wildfly and docker containers, deployed in a remote private envir
 Custom Python services was deployed as an intermediary ETL process, while cleaning and contexualizing against stored database entity objects.
 Data analysis and reporting was achieved with ELK (Elasticsearch, Logstash, Kibana) for search, and dashboards and graphing was done with Grafana and bare-metal PDF generation software.
  
-<img src="images/network2.png?raw=true"/>
+<img class="feature" src="images/network2.png?raw=true"/>
 <br>
