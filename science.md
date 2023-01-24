@@ -24,3 +24,11 @@ A number of php and python was written to strengthen the backend servers, and pl
 This had to be solved in a creative manner, as most normal users were downloading very large datasets, and sessions lasting for hours at a time, while other nefarious bad-actors were actively trying to steal data and cause malicious activity within the data-service layer.  Snort software was eventually deployed on the network, which could effectively profile users normal activity, and could dynamically identify users that were violating agreements, and take appropriate action.
 
 <img  class="feature" src="images/science2.png?raw=true"/>
+
+
+ <style>
+.feature{
+    border: 1px solid silver !important;
+}
+
+</style>
