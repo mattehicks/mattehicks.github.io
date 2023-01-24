@@ -26,3 +26,11 @@ Data analysis and reporting was achieved with ELK (Elasticsearch, Logstash, Kiba
  
 <img class="feature" src="images/network2.png?raw=true"/>
 <br>
+
+
+ <style>
+.feature{
+    border: 1px solid silver !important;
+}
+
+</style>
