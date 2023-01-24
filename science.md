@@ -9,12 +9,14 @@ A series of java utilities were produced that would allow using strategies now c
 Browser memory was very much in-demand, and thus the concept of big-data applications was introduced.
 
 <img src="images/science1.png?raw=true"/>
+<br>
 
 ### 3. Applications for mass-spectrometry, and "Metabolomics".
 
 A dashboard was created for users to save their mass-spec result sets, and create reports and summaries based on findings.  This integrated well with the metabolite database that was growing quickly.  We were able to incorporate a 'categorical' mapping of metabolites, and corresponding user documents stored on this system.  Allowing for rough sketches in medical and bioscience thesis and investigations, coined as "Untargeted Metabolomics" research.
 
 <img src="images/science3.png?raw=true"/>
+<br>
 
 ### 3. Security
 

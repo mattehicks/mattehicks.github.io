@@ -16,7 +16,7 @@ CMS CRUD capabilities.
 Secure: Tokenized/authenticated application interface.
 ```
 <img src="images/network1.png?raw=true"/>
-
+<br>
 
 ### 2. Programming and methods
 
@@ -27,3 +27,4 @@ Data analysis was achieved with ELK (Elasticsearch, Logstash, Kibana).
 Realitime dashboards and graphing was done with COTS 3rd party tools.
  
 <img src="images/network2.png?raw=true"/>
+<br>
