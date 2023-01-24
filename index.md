@@ -32,8 +32,9 @@
 
 ### My Companies
 
-- [IOT Micro-Cloud LLC](http://iotmicrocloud.com/)
-- [Big Data Soup LLC](http://bigdatasoup.com/)
+- [ "IOT Micro-Cloud LLC"](http://iotmicrocloud.com/)
+- [ "Big Data Soup LLC"](http://bigdatasoup.com/)
+
 ---
  
 
