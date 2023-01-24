@@ -1,8 +1,7 @@
 ## A network manager, command and control platform, and CMS all-in-one.
 
 **Project description:** This was a project that took 2 years to complete.  
-Consisting of multiple UI/UX interfaces, complex business-objects, multiple programming languages, critical services, authentication methods, 
-databases, API's and microservices, and python/java data-analysis modules running in the background.
+Consisting of multiple UI/UX interfaces, complex microservices architecture, multiple programming languages, able to handle multiple hierarchical data objects / entities, authentication methods, databases, API's and microservices, and python/java data-analysis modules running in the background.
 It was able to interface with remote "edge-devices" and local network hardware. Each with a hand-written modular interface for each protocol or interface required.
 
 ### 1.  Interface design
