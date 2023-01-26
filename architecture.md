@@ -14,7 +14,7 @@ API Gateway
 Kinesis streams
 NoSQL
 ```
-<img src="images/jacloud.jpg?raw=true"/>
+<img class='feature'  src="images/jacloud.jpg?raw=true"/>
 
 ### 2. Big-data and stream processing architectures and workflows.
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
@@ -25,7 +25,7 @@ Kinesis streams
 NoSQL
 ```
 
-<img src="images/humid.jpg?raw=true"/>
+<img class='feature' src="images/humid.jpg?raw=true"/>
 
 
 
@@ -38,7 +38,7 @@ Kinesis streams
 NoSQL
 ```
 
-<img src="images/candc.png?raw=true"/>
+<img class='feature' src="images/candc.png?raw=true"/>
 
 ### 4. Frontend UI/UX
 
@@ -49,7 +49,7 @@ API Gateway
 Kinesis streams
 NoSQL
 ```
- <img src="images/frontend2.jpg?raw=true"/>
+ <img class='feature' src="images/frontend2.jpg?raw=true"/>
  
  
  <style>
