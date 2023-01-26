@@ -1,32 +1,57 @@
-## This can be your internal website page / project page test
+## Architecting of infrastructure, applications and services.
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** I have worked as a software engineer on numerous projects requiring overall system design, architecting cloud services for a myriad of industries, also writing big-data applications which have tons of variation in how the data is delivered, presented, and memory constraints.  Here is a few projects that were worth delving into:
 
-### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 1. Consumer facing, high volume microservices on AWS.
 
-### 2. Assess assumptions on which statistical inference will be based
+Working as a fullstack engineer on a popular cloud connected product. Volume of incoming messages was on order of 10k+ per min.
+Using Kinesis, we are able to "chunk" the inputs into manageable sizes to parse and process.  There is a tradeoff between velocity and volume being considered here.  Here the design was put into production, during initial rollout of these cloud connected products:
 
 ```javascript
-if (isAwesome){
-  return true
-}
+API Gateway
+Kinesis streams
+NoSQL
+```
+<img src="images/jacloud.jpg?raw=true"/>
+
+### 2. Big-data and stream processing architectures and workflows.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+ 
+ ```javascript
+API Gateway
+Kinesis streams
+NoSQL
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+<img src="images/humid.jpeg?raw=true"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+
+### 3. Events based services and data flow.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+ 
+ ```javascript
+API Gateway
+Kinesis streams
+NoSQL
+```
+
+<img src="images/candc.jpg?raw=true"/>
+
+### 4. Frontend UI/UX
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+ 
+ ```javascript
+API Gateway
+Kinesis streams
+NoSQL
+```
+ <img src="images/frontend2.jpg?raw=true"/>
+ 
+ 
  <style>
 .feature{
     border: 1px solid silver !important;
