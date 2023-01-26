@@ -25,7 +25,7 @@ Kinesis streams
 NoSQL
 ```
 
-<img src="images/humid.jpeg?raw=true"/>
+<img src="images/humid.jpg?raw=true"/>
 
 
 
@@ -38,7 +38,7 @@ Kinesis streams
 NoSQL
 ```
 
-<img src="images/candc.jpg?raw=true"/>
+<img src="images/candc.png?raw=true"/>
 
 ### 4. Frontend UI/UX
 
@@ -56,5 +56,4 @@ NoSQL
 .feature{
     border: 1px solid silver !important;
 }
-
 </style>
