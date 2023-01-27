@@ -46,10 +46,13 @@ Confluent/Open-source
 ### 3. Events based services and data flow.
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
  
- ```javascript
-API Gateway
-Kinesis streams
-NoSQL
+ ```
+Wildfly
+Java
+Python
+Event Hub
+Microservices
+3rd party integration
 ```
 
 <img class='feature' src="images/candc.png?raw=true"/>
@@ -60,10 +63,13 @@ NoSQL
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
  
- ```javascript
-API Gateway
-Kinesis streams
-NoSQL
+ ```
+Angular 
+Typescript / Javascript
+MapBox
+Highcharts
+ELK (Elasticsearch, Logstash, Kibana)
+Realtime data
 ```
  <img class='feature' src="images/frontend2.jpg?raw=true"/>
  
