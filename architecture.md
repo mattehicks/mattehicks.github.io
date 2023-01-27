@@ -6,13 +6,18 @@
 
 ### 1. Consumer facing, high volume microservices on AWS.
 
-Working as a fullstack engineer on a popular cloud connected product. Volume of incoming messages was on order of 10k+ per min.
-Using Kinesis, we are able to "chunk" the inputs into manageable sizes to parse and process.  There is a tradeoff between velocity and volume being considered here.  Here the design was put into production, during initial rollout of these cloud connected products:
+As a fullstack engineer on a project with incoming messages on order of 10k+ per min.  All components needed to be auto-scaling to handle traffic during peak hours, and be fault-tolerant.  
+Java handles the heavy lifting; after the kinesis event stream is split into a database of event logs and a NoSQL store for current device state.  
+The modular cloud components are easy to deploy, and services are trivial to stop/start, and CloudWatch was an essential component to catch any failures, and create audits of daily activity. 
+A local kinesis build was included in the CI/CD paradigm for faster development.  
+The infrastructure rollout looks like this:
 
-```javascript
+```
 API Gateway
 Kinesis streams
 NoSQL
+Internal API's
+SQL Warehouse
 ```
 <img class='feature'  src="images/jacloud.jpg?raw=true"/>
 
