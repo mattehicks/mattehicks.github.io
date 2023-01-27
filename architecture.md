@@ -1,4 +1,4 @@
-## Architecting of infrastructure, applications and services.
+## Infrastructure: applications and services.
 
 **Project description:** I have worked as a software engineer on numerous projects requiring overall system design, architecting cloud services for a myriad of industries, also writing big-data applications which have tons of variation in how the data is delivered, presented, and memory constraints.  Here is a few projects that were worth delving into:
 
