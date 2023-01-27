@@ -15,9 +15,9 @@ The infrastructure rollout looks like this:
 ```
 API Gateway
 Kinesis streams
-NoSQL
+Redshift
 Internal API
-SQL Warehouse
+PostgreSQL Warehouse
 ```
 
 <img class='feature'  src="images/jacloud.jpg?raw=true"/>
@@ -26,12 +26,17 @@ SQL Warehouse
 ---
 
 ### 2. Big-data and stream processing architectures and workflows.
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+A bulk-data processing system, as contracted by a large insurance company.  Its purpose is to run a daily aggregation against the internal data warehouse, and comb through the claims in order to detect fraud, descrepancies, and a myriad of other causes of faulty data.  This architecture is built with open-source in-mind, using Hive, Spark, SOLR in-memory store, and Java to create large sets of data that could be read from memory, and processed in the period of only a few hours.
+Using the knowledge gained from this project, we would eventually expand the functionality into a more robust, modular system.  These modules were enhanced to handle more schama-types, modularized, dockerized, and communicate via a Kinesis messaging hub. A system still in-use to this day. 
+Overview:
  
- ```javascript
-API Gateway
-Kinesis streams
-NoSQL
+ ```
+Spark
+Hive
+SOLR
+Java
+Kinesis Streams
+Confluent/Open-source
 ```
 
 <img class='feature' src="images/humid.jpg?raw=true"/>
