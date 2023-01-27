@@ -16,10 +16,14 @@ The infrastructure rollout looks like this:
 API Gateway
 Kinesis streams
 NoSQL
-Internal API's
+Internal API
 SQL Warehouse
 ```
+
 <img class='feature'  src="images/jacloud.jpg?raw=true"/>
+
+<br>
+---
 
 ### 2. Big-data and stream processing architectures and workflows.
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
@@ -31,7 +35,8 @@ NoSQL
 ```
 
 <img class='feature' src="images/humid.jpg?raw=true"/>
-
+<br>
+---
 
 
 ### 3. Events based services and data flow.
@@ -44,6 +49,8 @@ NoSQL
 ```
 
 <img class='feature' src="images/candc.png?raw=true"/>
+<br>
+---
 
 ### 4. Frontend UI/UX
 
