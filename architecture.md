@@ -26,8 +26,8 @@ PostgreSQL Warehouse
 ---
 
 ### 2. Big-data and stream processing architectures and workflows.
-A bulk-data processing system, as contracted by a large insurance company.  Its purpose is to run a daily aggregation against the internal data warehouse, and comb through the claims in order to detect fraud, descrepancies, and a myriad of other causes of faulty data.  This architecture is built with open-source in-mind, using Hive, Spark, SOLR in-memory store, and Java to create large sets of data that could be read from memory, and processed in the period of only a few hours.
-Using the knowledge gained from this project, we would eventually expand the functionality into a more robust, modular system.  These modules were enhanced to handle more schama-types, modularized, dockerized, and communicate via a Kinesis messaging hub. A system still in-use to this day. 
+A bulk-analytics system, as contracted by a government/healthcare association.  Its purpose is to run analytics agents against the claims data-warehouse, in order to detect fraud, descrepancies, and a myriad of other causes of invalid accounting.  This architecture is built with open-source in-mind, using Hive, Spark, SOLR in-memory store, and Java to create large sets of data that could be read from memory, and processed in the period of only a few hours.
+Using the knowledge gained from this project, we would eventually expand the functionality into a more comprehensive solution for enterprise analytics.  These modules were enhanced to handle a greater number of data schemas, were modularized for independant deployment, ie; dockerized, and would communicate via a Kinesis central event/message hub.  A widely accredited product and achievement. 
 Overview:
  
  ```
@@ -41,7 +41,6 @@ Confluent/Open-source
 
 <img class='feature' src="images/humid.jpg?raw=true"/>
 <br>
----
 
 
 ### 3. Events based services and data flow.
