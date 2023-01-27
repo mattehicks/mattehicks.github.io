@@ -50,7 +50,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 Wildfly
 Java
 Python
-Service Mesh
+Kafka Messaging
 Event hub / message queue
 3rd party integration
 ```
