@@ -50,8 +50,8 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 Wildfly
 Java
 Python
-Event Hub
-Microservices
+Service Mesh
+Event hub / message queue
 3rd party integration
 ```
 
