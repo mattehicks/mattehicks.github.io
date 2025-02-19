@@ -44,7 +44,18 @@ Confluent/Open-source
 
 
 ### 3. Events based services and data flow.
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Working with a leader in the SATCOM and communication networks sector, I was tasked with designing and building a platform for a bevy of high-priority clients.
+The end goal to create a CMS and network mangagement platform, that could:
+Interface with various components from multiple vendors, 
+Having a custom built set of drivers that can interface via udp and control 'Systems of Systems' and be a 'Manager of Managers'
+Has a collection of backend routines that can handle realtime telemmetry feeds, 
+Has an interface with "command and control" capabilities for JAD2C elements and battlefield planning. 
+Able to detect network outages and health, and respond in an automated way, to migrate networks between nodes and use the appropriate hardware.
+
+As a matter of security, we utilized COTS libraries and Java/JS packages.  The stack also consisting of frameworks and components related to: 
+GRPC, Subscribers, Sockets, realtime maps, live video feed components, CMS and Entity management, RF analysis tools, reporting tools, health and monitoring, hardware drivers, etc.
+Thus, allowing us to innovate and design custom components across a number of areas.
+The result was; a successful demos and field tests, and mulitiple contract extensions.
  
  ```
 Wildfly
