@@ -1,8 +1,7 @@
-## COMING SOON 
+## COMING SOON   
+  
+Overview:  
+Windows native application development since early 2010.  
+C++, C#, UWP  
 
- <style>
-.feature{
-    border: 1px solid silver !important;
-}
 
-</style>
